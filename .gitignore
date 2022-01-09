@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+export-variables.sh
+.DS_Store
+.DS_Store/**
+out/
+*.iml

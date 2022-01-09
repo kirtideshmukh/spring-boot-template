@@ -1,0 +1,1 @@
+### Sample java spring boot project template
